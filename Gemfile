@@ -14,7 +14,7 @@ gem 'jquery-rails', '~>4.2', '>=4.2.1'
 
 gem 'jbuilder', '~>2.0', '>=2.6.0'
 
-gem 'puma', '~>3.6', '>=3.6.0'#, :platforms=>:ruby
+gem 'puma', '~>4.3'#, :platforms=>:ruby
 gem 'pg', '~>0.20.0'
 gem 'mongoid', '~>5.1', '>=5.1.5'
 
